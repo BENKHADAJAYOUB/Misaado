@@ -2,11 +2,11 @@ import java.util.ArrayList;
 
 public class Etage {
 ArrayList<Integer> etage;
-AscensseurCol cab ;
+CabineCol cab ;
 
 public Etage()//pour créer les etages 
 {
-	ArrayList<AscensseurCol> etage = new ArrayList<AscensseurCol>(8);	
+	ArrayList<CabineCol> etage = new ArrayList<CabineCol>(8);	
 	
 	
 }

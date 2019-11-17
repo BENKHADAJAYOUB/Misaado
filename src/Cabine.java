@@ -1,5 +1,5 @@
 
-public interface Ascensseur {
+public interface Cabine {
     
     void arretProchainNiveau();
  	void arreter();

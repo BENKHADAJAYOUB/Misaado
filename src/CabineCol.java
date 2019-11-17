@@ -1,9 +1,9 @@
 import java.util.ArrayList;
 
-class AscensseurCol implements Ascensseur {
+class CabineCol implements Cabine {
 	ArrayList<Etage> demande;//pour les num etage
 	private int etageCourant;
-	AscensseurCol nextCabine;
+	CabineCol nextCabine;
 	private int position;
 	@Override
 	public void demandeEtage(int numEtage)
