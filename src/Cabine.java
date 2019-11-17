@@ -1,5 +1,5 @@
 
-public interface Cabine {
+public class Cabine {
     
     
 }
